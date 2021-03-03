@@ -49,11 +49,6 @@
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
-    },
-    {
-      "id": 11,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
     }
   ],
   "likes": [
@@ -66,6 +61,86 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteID": 3,
+      "createdAt": 1614725809621,
+      "id": 3
+    },
+    {
+      "quoteID": 4,
+      "createdAt": 1614725810274,
+      "id": 4
+    },
+    {
+      "quoteID": 5,
+      "createdAt": 1614725810825,
+      "id": 5
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725811950,
+      "id": 6
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725813401,
+      "id": 7
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725814144,
+      "id": 8
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725814773,
+      "id": 9
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725815358,
+      "id": 10
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725815797,
+      "id": 11
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725816048,
+      "id": 12
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725816296,
+      "id": 13
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725816528,
+      "id": 14
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725816787,
+      "id": 15
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725817012,
+      "id": 16
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725817249,
+      "id": 17
+    },
+    {
+      "quoteID": 6,
+      "createdAt": 1614725817485,
+      "id": 18
     }
   ]
 }
